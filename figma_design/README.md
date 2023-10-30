@@ -1,16 +1,6 @@
-# figma_design
+![1698663720971](https://github.com/ankithshetty17/BikeRent/assets/85435501/4464736c-bd45-47bd-b441-e6517249adac)
 
-A new Flutter project.
+![1698663720964](https://github.com/ankithshetty17/BikeRent/assets/85435501/172b6f5d-c97e-4d05-a6ba-761148e7338f)
 
-## Getting Started
+![1698663720967](https://github.com/ankithshetty17/BikeRent/assets/85435501/da805fd5-f336-4d82-9061-64a4777a499b)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
